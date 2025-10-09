@@ -1,0 +1,15 @@
+{
+  "name": "lb1",
+  "version": "1.0.0",
+  "description": "lb1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zazulia Viktor",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.37.0",
+    "eslint": "^9.37.0"
+  }
+}
